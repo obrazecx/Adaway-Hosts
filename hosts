@@ -1,5 +1,6 @@
 #AdAway
 #Block adversing and tracking for some apps on Android
+0.0.0.0 external-api.mediabilling.yandex.ru
 0.0.0.0 taxi-promotions.s3.yandex.net
 0.0.0.0 mobile-metrica.cabconnect.org
 0.0.0.0 media-adv.market.yandex.ru
@@ -54,7 +55,7 @@
 0.0.0.0 rebus.rustore.ru
 0.0.0.0 wallet.mail.ru
 0.0.0.0 ts.tracker-api.vk-analytics.ru
-0.0.0.0 alt-push-me.mail.ru
+0.0.0.0 egress.yandex.net
 0.0.0.0 vkpns.rustore.ru
 0.0.0.0 ip4.tracker-api.vk-analytics.ru
 0.0.0.0 ktlt.cdn-vk.ru
