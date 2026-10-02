@@ -1,6 +1,23 @@
 #AdAway
 #Block adversing and tracking for some apps on Android
-
+#Некоторые корневые домены как yandex.ru используются для показа банерной рекламы в приложениях, наличие корневого домена в списке блокировок отключает показ рекламы но может затрагивать работу других сервисов, чат с поддержкой в экосистеме яндекс
+0.0.0.0 ad.sbermarketing.ru
+0.0.0.0 ads.sberbank.ru
+0.0.0.0 banner.samokat.ru
+0.0.0.0 counter.sbermarketing.ru
+0.0.0.0 marketing.sberbank.ru
+0.0.0.0 metrics.sberbank.ru
+0.0.0.0 promotions.sberbank.ru
+0.0.0.0 stat.sberbank.ru
+0.0.0.0 taxiaid.org
+0.0.0.0 yandex.ru
+0.0.0.0 yandex.net
+0.0.0.0 egress.yandex.net
+0.0.0.0 care.yandex.ru
+0.0.0.0 yastatic.net
+0.0.0.0 external-api.mediabilling.yandex.ru
+0.0.0.0 taxi-promotions.s3.yandex.net
+0.0.0.0 egw.home-gateway.plus.yandex.net
 0.0.0.0 mobile-metrica.cabconnect.org
 0.0.0.0 media-adv.market.yandex.ru
 0.0.0.0 go.integration.market.yandex.ru
