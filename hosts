@@ -7,7 +7,6 @@
 0.0.0.0 go.integration.market.yandex.ru
 0.0.0.0 ezfweb-launches.appsflyersdk.com
 0.0.0.0 crashlytics.com
-0.0.0.0 care.yandex.ru
 0.0.0.0 app.adjust.io
 0.0.0.0 ads.taxiaid.org
 0.0.0.0 rosenberg.appmetrica.yandex.net
@@ -48,7 +47,6 @@
 0.0.0.0 core.smartcallback.ru
 0.0.0.0 m2.ru
 0.0.0.0 o1069899.ingest.sentry.io
-0.0.0.0 yandex.net
 0.0.0.0 pushmarketing.sberbank-tele.com
 0.0.0.0 stat.online.sberbank.ru
 0.0.0.0 crash.ant.sberbank.ru
@@ -59,7 +57,6 @@
 0.0.0.0 rebus.rustore.ru
 0.0.0.0 wallet.mail.ru
 0.0.0.0 ts.tracker-api.vk-analytics.ru
-0.0.0.0 egress.yandex.net
 0.0.0.0 vkpns.rustore.ru
 0.0.0.0 ip4.tracker-api.vk-analytics.ru
 0.0.0.0 ktlt.cdn-vk.ru
