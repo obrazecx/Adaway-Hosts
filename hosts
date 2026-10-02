@@ -2,7 +2,11 @@
 #Block adversing and tracking for some apps on Android
 #Некоторые корневые домены как yandex.ru используются для показа банерной рекламы в приложениях, наличие корневого домена в списке блокировок отключает показ рекламы но может затрагивать работу других сервисов, чат с поддержкой в экосистеме яндекс
 
-0.0.0.0 rustore.ru
+0.0.0.0 apptracer.ru
+0.0.0.0 stats.rustore.ru
+0.0.0.0 api.rustore.ru
+0.0.0.0 vkpns.rustore.ru
+0.0.0.0 mytracker.ru
 0.0.0.0 banner.samokat.ru
 0.0.0.0 metrics.samokat.ru
 0.0.0.0 promotions.samokat.ru
@@ -74,7 +78,6 @@
 0.0.0.0 rebus.rustore.ru
 0.0.0.0 wallet.mail.ru
 0.0.0.0 ts.tracker-api.vk-analytics.ru
-0.0.0.0 vkpns.rustore.ru
 0.0.0.0 ip4.tracker-api.vk-analytics.ru
 0.0.0.0 ktlt.cdn-vk.ru
 0.0.0.0 stats.rustore.ru
