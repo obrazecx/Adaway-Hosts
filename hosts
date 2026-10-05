@@ -2,6 +2,38 @@
 #Block adversing and tracking for some apps on Android
 #Некоторые корневые домены как yandex.ru используются для показа банерной рекламы в приложениях, наличие корневого домена в списке блокировок отключает показ рекламы но может затрагивать работу других сервисов, чат с поддержкой в экосистеме яндекс
 
+0.0.0.0 adsmoloco.com
+0.0.0.0 advlion.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 aliyuncs.com
+0.0.0.0 api.fanzz.tech
+0.0.0.0 appsflyer.com
+0.0.0.0 bidease.com
+0.0.0.0 byyd.me
+0.0.0.0 irwinds.site
+0.0.0.0 hookspf.com
+0.0.0.0 i9dhjx.ru
+0.0.0.0 lightcreative.net
+0.0.0.0 maxesads.com
+0.0.0.0 mentamob.com
+0.0.0.0 mores.anythinktech.com
+0.0.0.0 mores.toponad.com
+0.0.0.0 mosspf.com
+0.0.0.0 mossru.com
+0.0.0.0 mossturbo.com
+0.0.0.0 rayjump.com
+0.0.0.0 res.xmoky.tech
+0.0.0.0 se.mnbvcxzas.com
+0.0.0.0 sg-td-menta-01-callback.advlion.com
+0.0.0.0 mtgglobals.com
+0.0.0.0 sg-new-hb-bid-feedback.mtgglobals.com
+0.0.0.0 sober.hely.tech
+0.0.0.0 stripe.com
+0.0.0.0 tiktokpangle-b.us
+0.0.0.0 tradplusad.com
+0.0.0.0 v-logfoot.ru
+0.0.0.0 vungle.com
+0.0.0.0 wins.prod4.impulsertb.com
 0.0.0.0 max.ru
 0.0.0.0 download.max.ru
 0.0.0.0 oneme.ru
