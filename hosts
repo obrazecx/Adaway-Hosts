@@ -1,6 +1,33 @@
 #AdAway
 #Block adversing and tracking for some apps on Android
 #Некоторые корневые домены как yandex.ru используются для показа банерной рекламы в приложениях, наличие корневого домена в списке блокировок отключает показ рекламы но может затрагивать работу других сервисов, чат с поддержкой в экосистеме яндекс
+0.0.0.0 sg-new-hb-bid-feedback.mtgglobals.com
+0.0.0.0 gw-eu.xiaoyi.com
+0.0.0.0 sober.hely.tech
+0.0.0.0 api.fanzz.tech
+0.0.0.0 res.xmoky.tech
+0.0.0.0 mores.toponad.com
+0.0.0.0 tk.mossru.com
+0.0.0.0 mores.anythinktech.com
+0.0.0.0 wins.prod4.impulsertb.com
+0.0.0.0 eu94.ivcsmrt.com
+0.0.0.0 lightcreative.net
+0.0.0.0 v-logfoot.ru
+0.0.0.0 aliyuncs.com
+0.0.0.0 advlion.com
+0.0.0.0 adx-saas.advlion.com
+0.0.0.0 sg-td-menta-01-callback.advlion.com
+0.0.0.0 tradplusad.com
+0.0.0.0 bidder.tradplusad.com
+0.0.0.0 event.tradplusad.com
+0.0.0.0 vungle.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 max.ru
+0.0.0.0 download.max.ru
+0.0.0.0 oneme.ru
+0.0.0.0 help.max.ru
+0.0.0.0 st.max.ru
+0.0.0.0 platform-api2.max.ru
 0.0.0.0 listmax.ru
 0.0.0.0 maxframe.ru
 0.0.0.0 maxmetrics.ru
@@ -9,6 +36,7 @@
 0.0.0.0 ads.vk.ru
 0.0.0.0 m.mradx.net
 0.0.0.0 apptracer.ru
+0.0.0.0 rustore.ru
 0.0.0.0 stats.rustore.ru
 0.0.0.0 api.rustore.ru
 0.0.0.0 vkpns.rustore.ru
