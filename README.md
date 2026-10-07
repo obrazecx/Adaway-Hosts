@@ -1,2 +1,2 @@
 Block adversing and tracking for some apps on Android. Link for AdAway
-raw.githubusercontent.com/obrazecx/Adaway-Hosts/master/hosts
+https://raw.githubusercontent.com/obrazecx/Adaway-Hosts/master/hosts
