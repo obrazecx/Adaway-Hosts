@@ -1,7 +1,8 @@
 #AdAway
 #Block adversing and tracking for some apps on Android
 #Некоторые корневые домены как yandex.ru используются для показа банерной рекламы в приложениях, наличие корневого домена в списке блокировок отключает показ рекламы но может затрагивать работу других сервисов, чат с поддержкой в экосистеме яндекс
-
+0.0.0.0 flux-shift.com
+0.0.0.0 mintegral.com
 0.0.0.0 adsmoloco.com
 0.0.0.0 advlion.com
 0.0.0.0 adx.ads.vungle.com
@@ -10,7 +11,7 @@
 0.0.0.0 appsflyer.com
 0.0.0.0 bidease.com
 0.0.0.0 byyd.me
-0.0.0.0 irwinds.site
+0.0.0.0 firwinds.site
 0.0.0.0 hookspf.com
 0.0.0.0 i9dhjx.ru
 0.0.0.0 lightcreative.net
