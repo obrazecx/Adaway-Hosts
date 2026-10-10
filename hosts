@@ -1,6 +1,22 @@
 #AdAway
 #Block adversing and tracking for some apps on Android
 #Некоторые корневые домены как yandex.ru используются для показа банерной рекламы в приложениях, наличие корневого домена в списке блокировок отключает показ рекламы но может затрагивать работу других сервисов, чат с поддержкой в экосистеме яндекс
+0.0.0.0 sg-new-ssplib-hb.rayjump.com
+0.0.0.0 event.tradplusad.com
+0.0.0.0 track-us.bidease.com
+0.0.0.0 api-sg.mentamob.com
+0.0.0.0 tk.mossturbo.com
+0.0.0.0 gdl.bytegle.tech
+0.0.0.0 sg-ali-ad-mof-sdk.mtgglobals.com
+0.0.0.0 adx.mossturbo.com
+0.0.0.0 api.firwinds.site
+0.0.0.0 touch-eu.xiaoyi.com
+0.0.0.0 api.tradplusad.com
+0.0.0.0 q.stripe.com
+0.0.0.0 cdnr6zvaaboxkgc7k5ma.svc.cdn.yandex.net
+0.0.0.0 api16-access-ttp-b.tiktokpangle.us
+0.0.0.0 tiktokpangle.us
+0.0.0.0 nx-sg-v4.mentamob.com
 0.0.0.0 kayzen.io
 0.0.0.0 d1om9znyumzhxf.cloudfront.net
 0.0.0.0 bidder.tradplusad.com
