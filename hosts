@@ -1,6 +1,7 @@
 #AdAway
 #Block adversing and tracking for some apps on Android
 #Некоторые корневые домены как yandex.ru используются для показа банерной рекламы в приложениях, наличие корневого домена в списке блокировок отключает показ рекламы но может затрагивать работу других сервисов, чат с поддержкой в экосистеме яндекс
+#YI HOME
 0.0.0.0 tiktokpangle-b.us
 0.0.0.0 m.stripe.com
 0.0.0.0 api.i9dhjx.ru
@@ -77,6 +78,7 @@
 0.0.0.0 v-logfoot.ru
 0.0.0.0 vungle.com
 0.0.0.0 wins.prod4.impulsertb.com
+#
 0.0.0.0 max.ru
 0.0.0.0 download.max.ru
 0.0.0.0 oneme.ru
@@ -88,6 +90,7 @@
 0.0.0.0 maxmetrics.ru
 0.0.0.0 maxstat.io
 0.0.0.0 maxstat.ru
+#Mail
 0.0.0.0 ads.vk.ru
 0.0.0.0 r.mradx.net
 0.0.0.0 m.mradx.net
@@ -96,6 +99,32 @@
 0.0.0.0 stats.rustore.ru
 0.0.0.0 api.rustore.ru
 0.0.0.0 vkpns.rustore.ru
+0.0.0.0 wallet.mail.ru
+0.0.0.0 ts.tracker-api.vk-analytics.ru
+0.0.0.0 ip4.tracker-api.vk-analytics.ru
+0.0.0.0 ktlt.cdn-vk.ru
+0.0.0.0 adv.rustore.ru
+0.0.0.0 cloud.mail.ru
+0.0.0.0 calendarx.imgsmail.ru
+0.0.0.0 appsflyersdk.com
+0.0.0.0 alt-ad.mail.ru
+0.0.0.0 ad.mail.ru
+0.0.0.0 top.mail.ru
+0.0.0.0 top5.mail.ru
+0.0.0.0 r.mail.ru
+0.0.0.0 t.mail.ru
+0.0.0.0 rs.mail.ru
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 tracker-api.vk-analytics.ru
+0.0.0.0 8mudbv-inapps.appsflyersdk.com
+0.0.0.0 rebus.rustore.ru
+0.0.0.0 sdk-api.apptracer.ru
+0.0.0.0 8mudbv-launches.appsflyersdk.com
+0.0.0.0 xray.mail.ru
+0.0.0.0 ads.vk.com
+0.0.0.0 pixel.smr8.ru
+0.0.0.0 core.smartcallback.ru
+#Sberbank
 0.0.0.0 mytracker.ru
 0.0.0.0 banner.samokat.ru
 0.0.0.0 metrics.samokat.ru
@@ -108,6 +137,11 @@
 0.0.0.0 metrics.sberbank.ru
 0.0.0.0 promotions.sberbank.ru
 0.0.0.0 stat.sberbank.ru
+0.0.0.0 pushmarketing.sberbank-tele.com
+0.0.0.0 stat.online.sberbank.ru
+0.0.0.0 crash.ant.sberbank.ru
+0.0.0.0 mpsbol.ant.sberbank.ru
+#Yandex,Fasten,YoWindow
 0.0.0.0 taxiaid.org
 0.0.0.0 yandex.ru
 0.0.0.0 yandex.net
@@ -125,55 +159,26 @@
 0.0.0.0 crashlytics.com
 0.0.0.0 app.adjust.io
 0.0.0.0 rosenberg.appmetrica.yandex.net
-0.0.0.0 appsflyersdk.com
-0.0.0.0 alt-ad.mail.ru
-0.0.0.0 ad.mail.ru
-0.0.0.0 top.mail.ru
-0.0.0.0 top5.mail.ru
-0.0.0.0 r.mail.ru
-0.0.0.0 t.mail.ru
-0.0.0.0 rs.mail.ru
-0.0.0.0 graph.facebook.com
-0.0.0.0 xray.mail.ru
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adjust.com
 0.0.0.0 ads.adfox.ru
-0.0.0.0 ads.vk.com
 0.0.0.0 amc.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 app.adjust.com
-0.0.0.0 clients.your-server.de
 0.0.0.0 redirect.appmetrica.yandex.com
-0.0.0.0 videodownloadmaster.com
 0.0.0.0 storage.mds.yandex.net
-0.0.0.0 static.163.120.201.138.clients.your-server.de
 0.0.0.0 csp.yandex.net
 0.0.0.0 mc.yandex.ru
 0.0.0.0 static-mon.yandex.net
 0.0.0.0 googletagmanager.com
 0.0.0.0 calltouch.ru
 0.0.0.0 yatr.ru
-0.0.0.0 pixel.smr8.ru
 0.0.0.0 unpkg.comsmartcallback.ru
 0.0.0.0 my.smartis.bi
-0.0.0.0 core.smartcallback.ru
 0.0.0.0 m2.ru
 0.0.0.0 o1069899.ingest.sentry.io
-0.0.0.0 pushmarketing.sberbank-tele.com
-0.0.0.0 stat.online.sberbank.ru
-0.0.0.0 crash.ant.sberbank.ru
-0.0.0.0 mpsbol.ant.sberbank.ru
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 tracker-api.vk-analytics.ru
-0.0.0.0 8mudbv-inapps.appsflyersdk.com
-0.0.0.0 rebus.rustore.ru
-0.0.0.0 wallet.mail.ru
-0.0.0.0 ts.tracker-api.vk-analytics.ru
-0.0.0.0 ip4.tracker-api.vk-analytics.ru
-0.0.0.0 ktlt.cdn-vk.ru
-0.0.0.0 stats.rustore.ru
-0.0.0.0 sdk-api.apptracer.ru
-0.0.0.0 8mudbv-launches.appsflyersdk.com
-0.0.0.0 adv.rustore.ru
-0.0.0.0 cloud.mail.ru
-0.0.0.0 calendarx.imgsmail.ru
+#YoWindow
+0.0.0.0 static.163.120.201.138.clients.your-server.de
+0.0.0.0 clients.your-server.de
+0.0.0.0 graph.facebook.com
+0.0.0.0 videodownloadmaster.com
